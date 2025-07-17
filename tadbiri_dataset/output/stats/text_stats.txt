@@ -1,0 +1,5 @@
+Processed text files: 1
+Input words: 2135642
+Output words: 2135642
+Spam lines: 668
+Error files: 0
